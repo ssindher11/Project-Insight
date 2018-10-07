@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Project-Insight</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="private_app_id">b0dbe2c88c474d7bb03c231b10cd0c4f</string>
 </resources>
